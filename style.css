@@ -40,3 +40,13 @@ header{
     font-size: larger;
     text-shadow: 0 0 4px darkgray;
 }
+
+.poly-prod{
+    text-align: center;
+    padding : 5px
+}
+
+.poly-prod .panel-body img{
+    height: 220px;
+    width: 90%;
+}
